@@ -1,0 +1,8 @@
+spring:
+  data:
+    cassandra:
+      keyspace-name: restoam
+      contact-points: localhost
+      #logging:
+      #  level:
+      #    root: debug
